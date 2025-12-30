@@ -1147,10 +1147,10 @@ BibTeX:
 **Author:** Rakhmadi Irfansyah Putra  
 **Institution:** Universitas Diponegoro  
 **Email:** [rakhmadi@students.undip.ac.id]  
-**GitHub:** [github.com/yourusername]
+**GitHub:** [github.com/Rakhmadi31]
 
 **Project Repository:**  
-https://github.com/yourusername/scraper-artefak-digital-pti
+https://github.com/Rakhmadi31/Scraper/
 
 ---
 
