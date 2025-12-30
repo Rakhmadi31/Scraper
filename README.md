@@ -1,4 +1,4 @@
-# Scraper Artefak Digital Pendidikan Tinggi Indo
+# Scraper Artefak Digital PTI
 
 Powerful web scraping tool for collecting news articles from Indonesian university websites with automatic sitemap parsing and intelligent subdomain discovery.
 
@@ -26,6 +26,14 @@ Shared Selenium driver (10x lebih efisien)
 Advanced date parsing (20+ format)
 Duplicate detection dengan content hash
 Multi-retry mechanism
+
+💾 Enhanced User Experience
+
+Stop button dengan session state persistence
+Download 3 format (CSV, Excel, JSON)
+Real-time progress tracking
+Dual date columns (publish + scraper date)
+No data loss on stop or download
 
 💾 Enhanced User Experience
 
