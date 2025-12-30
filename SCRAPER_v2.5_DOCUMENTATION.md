@@ -1146,7 +1146,7 @@ BibTeX:
 
 **Author:** Rakhmadi Irfansyah Putra  
 **Institution:** Universitas Diponegoro  
-**Email:** [your-email@students.undip.ac.id]  
+**Email:** [rakhmadi@students.undip.ac.id]  
 **GitHub:** [github.com/yourusername]
 
 **Project Repository:**  
