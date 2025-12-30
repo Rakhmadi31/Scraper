@@ -841,8 +841,8 @@ Result: Maximum coverage, ~1500+ articles
 5. **API endpoint** (6 votes)
 
 **Submit Your Ideas:**
-- Email: [your-email@students.undip.ac.id]
-- GitHub: [github.com/yourusername/scraper/issues]
+- Email: [rakhmadi@students.undip.ac.id]
+- GitHub: [github.com/Rakhmadi31/Scraper/]
 
 ---
 
@@ -923,9 +923,9 @@ Download and start scraping! 🚀
 **Thank you for using Scraper Artefak Digital PTI!**
 
 **Questions? Feedback? Issues?**  
-Contact: [your-email@students.undip.ac.id]
+Contact: [rakhmadi@students.undip.ac.id]
 
-**Star the project:** [github.com/yourusername/scraper]
+**Star the project:** [github.com/Rakhmadi31/scraper]
 
 ---
 
